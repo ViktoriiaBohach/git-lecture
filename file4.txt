@@ -1,4 +1,3 @@
 Hello World!
 Hello World!
-Hello World!
-Hello from feature2!
+Hello from feature2 branch!git add 
